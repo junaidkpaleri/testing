@@ -2,6 +2,11 @@
 int main()
 {
 printf("hi");
-scanf("%d:);
+scanf("%d:");
 struct st{}
 }
+void add()
+{
+
+}
+

@@ -3,4 +3,5 @@ int main()
 {
 printf("hi");
 scanf("%d:);
+struct st{}
 }

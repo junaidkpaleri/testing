@@ -6,6 +6,7 @@ scanf("%d:");
 struct st{}
 }
 int fun()
+void add()
 {
 
 }
